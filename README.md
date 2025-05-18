@@ -77,8 +77,4 @@
   <img src="https://komarev.com/ghpvc/?username=Madan1500&color=6E81F7&style=flat-square" alt="Profile views" />
 </div>
 
-<div align="center">
-  <a href="https://www.buymeacoffee.com/Madan1500">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Madan1500&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy Me A Coffee" height="40" />
-  </a>
-</div>
+
